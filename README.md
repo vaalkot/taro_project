@@ -8,7 +8,6 @@
 - Flask
 - SQLite
 - HTML5 + CSS3 (Bootstrap 5)
-- JavaScript (Fetch API)
 
 Установка и запуск
 
